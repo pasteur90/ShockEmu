@@ -2,7 +2,7 @@
 [![macos-mojave](https://img.shields.io/badge/macos-mojave-brightgreen.svg)](https://www.apple.com/lae/macos/mojave)
 
 # What's this program?
-This program is useful if you want to use PS4 Remote Play with any gamepad / joystick.
+This program is useful if you want to use PS4 Remote Play with a __DualShock 3__ controller.
 
 # Credits
 All credits should go to https://github.com/daeken and https://github.com/suzukiplan/gamepad-osx.git
