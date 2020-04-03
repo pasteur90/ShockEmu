@@ -11,9 +11,9 @@ If you are happy with my work you can pay me a beer:
 
 # Setup
 ```zsh
-git clone https://github.com/MiCkSoftware/ShockEmu.git
+git clone https://github.com/pasteur90/ShockEmu.git
 cd ShockEmu
-./build.sh gamepad.se
+./build.sh
 ./run.sh
 ```
 
